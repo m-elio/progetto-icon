@@ -7,6 +7,9 @@ Cartelle:
 - dataset: contiene il dataset
 - utilities: contiene vari file utilizzati dal progetto
 
+N.B. Per comodità ed efficienza sono già presenti dei file di prova nella cartella "utilities" con dei dati precalcolati.
+Normalmente questi dati sono generati automaticamente al primo avvio del programma.
+
 Librerie usate:
 -	Libreria Scikit Learn
 -	Libreria Pandas
